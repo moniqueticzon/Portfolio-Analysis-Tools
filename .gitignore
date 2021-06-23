@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
 
@@ -14,7 +13,7 @@ profile_default/
 ipython_config.py
 
 # Remove previous ipynb_checkpoints
-#   git rm -r .ipynb_checkpoints/
+# git rm -r .ipynb_checkpoints/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
